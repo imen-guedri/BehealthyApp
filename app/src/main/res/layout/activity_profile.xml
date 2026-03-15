@@ -11,11 +11,11 @@
         android:id="@+id/tvProfil" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/text" android:textSize="22sp" android:textStyle="bold"/>
 
     <Button
-        android:id="@+id/btnRetour"
-        android:layout_width="140dp"
-        android:layout_height="60dp"
-        android:layout_marginTop="20dp"
-        android:text="Retour" />
+        android:id="@+id/btnC"
+        android:text="Voir le Catalogue"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
 
 
 </LinearLayout>

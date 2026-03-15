@@ -8,10 +8,11 @@ class ProfileActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_profile)
-        val btnRetour = findViewById<Button>(R.id.btnRetour)
 
-        btnRetour.setOnClickListener {
-            val intent = Intent(this, MainActivity::class.java)
+
+        val btnCatalogue = findViewById<Button>(R.id.btnC)
+        btnCatalogue.setOnClickListener {
+            val intent = Intent(this, it::class.java)
             startActivity(intent)
         }
     }
