@@ -9,8 +9,6 @@
         android:padding="16dp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
-
-        <!-- Produit 1 -->
         <LinearLayout
             android:orientation="vertical"
             android:padding="12dp"
@@ -37,7 +35,6 @@
                 android:layout_height="wrap_content" />
         </LinearLayout>
 
-        <!-- Produit 2 -->
         <LinearLayout
             android:orientation="vertical"
             android:padding="12dp"
@@ -64,7 +61,6 @@
                 android:layout_height="wrap_content" />
         </LinearLayout>
 
-        <!-- Produit 3 -->
         <LinearLayout
             android:orientation="vertical"
             android:padding="12dp"

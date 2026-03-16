@@ -1,0 +1,7 @@
+{
+  "recettes": [
+    {"nom": "Salade de pomme", "ingredients": "pomme, olive"},
+    {"nom": "Poulet Grillé", "ingredients": "riz, poulet"},
+    {"nom": "Smoothie Vert", "ingredients": "épinard, banane, miel"}
+  ]
+}
